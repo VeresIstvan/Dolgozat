@@ -1,0 +1,2 @@
+# Dolgozat
+Dolgozat A csoport
